@@ -35,6 +35,14 @@
 
     </rapid:block>
 </head>
+<style type="text/css">
+    body{
+        background: url(/img/loginBg5.jpg);
+        width:100%;
+        height:100%;
+        opacity:0.8;
+    }
+</style>
 <body>
 <div id="page" class="site" style="transform: none;">
 

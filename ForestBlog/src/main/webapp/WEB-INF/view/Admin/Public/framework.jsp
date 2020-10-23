@@ -120,7 +120,7 @@
 
     <div class="layui-footer">
         <!-- 底部固定区域 -->
-        © <a href="http://blog.liuyanzhao.com">言曌博客</a> 2017  欢迎加入开发者交流群 590480292，博主免费回答大家日常问题。同时博主代做毕设，解决开发问题，详情参看 <a href="https://liuyanzhao.com/bulletin/my-service/" target="_blank">有偿服务</a>
+        © <a href="http://blog.liuyanzhao.com">三变博客</a> 2020 技术菜鸟想找大牛交流学习 <a href="https://liuyanzhao.com/bulletin/my-service/" target="_blank">联系方式</a>
     </div>
 </div>
 
