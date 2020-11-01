@@ -38,20 +38,20 @@
                     </li>
                     <li class="tqq">
                         <a target="blank" rel="external nofollow"
-                           href="http://wpa.qq.com/msgrd?V=3&amp;uin=${options.optionAboutsiteQq}&amp;Site=QQ&amp;Menu=yes"
-                           title="QQ在线">
-                            <i class="fa fa-qq"></i>
+                           href="https://blog.csdn.net/${options.optionAboutsiteQq}"
+                           title="CSDN">
+                            <i class="fa fa-pencil-square"></i>
                         </a>
                     </li>
                     <li class="tsina">
-                        <a title=""
-                           href="http://weibo.com/${options.optionAboutsiteWeibo}"
+                        <a title="知乎"
+                           href="https://www.zhihu.com/${options.optionAboutsiteWeibo}"
                            target="_blank" rel="external nofollow">
-                            <i class="fa fa-weibo"></i>
+                            <i class="fa fa-quora"></i>
                         </a>
                     </li>
                     <li class="feed">
-                        <a title="" href="https://github.com/${options.optionAboutsiteGithub}" target="_blank"
+                        <a title="GitHub" href="https://github.com/${options.optionAboutsiteGithub}" target="_blank"
                            rel="external nofollow">
                             <i class="fa fa-github"></i>
                         </a>

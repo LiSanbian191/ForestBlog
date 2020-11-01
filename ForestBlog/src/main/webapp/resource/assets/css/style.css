@@ -370,7 +370,7 @@ a, button, input {
 
 .top-nav {
     height: 30px;
-    width: 1080px;
+    width: 100%;
     background-color:#009688;
     line-height: 30px;
     margin: 0 auto 0;
@@ -497,10 +497,9 @@ a, button, input {
 /** 主导航 **/
 #menu-box {
     background: #ffffff;
-    width: 1080px;
+    width: 100%;
     z-index: 999;
     position: absolute;
-    left: 220px;
     border-bottom: 1px solid #ddd;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
 }
@@ -515,7 +514,7 @@ a, button, input {
     width: 1080px;
     margin: 0 auto;
     display: table;
-    transition-duration: .5s;
+    transition-duration: 1s;
 }
 
 .shadow #top-menu {
